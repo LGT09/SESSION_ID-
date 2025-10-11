@@ -1,7 +1,7 @@
 // src/main.js
 const fs = require('fs');
 const path = require('path');
-const PASTEBIN_API_KEY =dEjXrYnCjf_vxu1mhm3pYVx643JIe1si
+const PASTEBIN_API_KEY ='dEjXrYnCjf_vxu1mhm3pYVx643JIe1si'
 
 /**
  * Uploads content to Pastebin, handling different input types like text, files, and base64 data.
