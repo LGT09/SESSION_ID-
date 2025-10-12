@@ -6,7 +6,7 @@ const pino = require("pino");
 const { Boom } = require("@hapi/boom");
 const MESSAGE = process.env.MESSAGE || `
 *SESSION GENERATED SUCCESSFULLY* ✅
-
+👻👽👾🤖
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
 https://github.com/LGT09 
 
@@ -14,10 +14,12 @@ https://github.com/LGT09
 https://t.me/Xaphnathpanior 
 https://chat.whatsapp.com/HKHFUb0ThuzKF8AoPztVjZ?mode=ems_copy_t
 
-*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/GlobalTechInfo
+https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P
 
-*Gaga09-XMD--WHATSAPP* 🥀
+*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
+https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P
+
+🤖*Gaga09-XMD--WHATSAPP*🤖 🥀
 `;
 
 const uploadToPastebin = require('./Paste');  // Assuming you have a function to upload to Pastebin
