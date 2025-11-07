@@ -8,7 +8,7 @@ const MESSAGE = process.env.MESSAGE || `
 *SESSION GENERATED SUCCESSFULLY* ✅
 👻👽👾🤖
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/LGT09 
+https://github.com/LGT09/gaga09-xmd-wa-bot 
 
 *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
 https://t.me/Xaphnathpanior 
