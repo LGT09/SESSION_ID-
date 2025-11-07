@@ -19,7 +19,7 @@ https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
 https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P
 
-🤖*Gaga09-XMD--WHATSAPP*🤖 🥀
+🤖*GAGA-XMD--WHATSAPP*🤖 🥀
 `;
 
 const uploadToPastebin = require('./Paste');  // Assuming you have a function to upload to Pastebin
