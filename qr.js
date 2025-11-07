@@ -13,7 +13,7 @@ const MESSAGE = process.env.MESSAGE || `
 *SESSION GENERATED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/LGT09/gaga09xmd V1
+https://github.com/LGT09/gaga09-xmd-wa-bot 
 
 *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
 https://t.me/Xaphnathpanior 
@@ -22,7 +22,7 @@ https://t.me/Xaphnathpanior
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
 https://chat.whatsapp.com/HKHFUb0ThuzKF8AoPztVjZ?mode=ems_copy_t
 
-*Gaga09 XMD* 🤖
+*GAGA XMD* 🤖
 `;
 
 if (fs.existsSync('./auth_info_baileys')) {
